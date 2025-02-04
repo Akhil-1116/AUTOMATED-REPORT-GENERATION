@@ -1,0 +1,12 @@
+2025-02-04 07:15:56,501 - utils - INFO - Starting report generation process
+2025-02-04 07:15:56,503 - utils - INFO - Generating sample data
+2025-02-04 07:15:56,507 - utils - INFO - Validating data
+2025-02-04 07:15:56,521 - utils - INFO - Analyzing data
+2025-02-04 07:15:56,548 - utils - INFO - Initializing report generator for: reports/sales_report_20250204_071556.pdf
+2025-02-04 07:15:56,549 - utils - INFO - Creating report using template
+2025-02-04 07:15:56,549 - report_generator - INFO - Adding title: Sales Performance Report
+2025-02-04 07:15:56,550 - report_generator - INFO - Adding table to report
+2025-02-04 07:15:56,551 - utils - INFO - Generating PDF
+2025-02-04 07:15:56,551 - report_generator - INFO - Generating PDF: reports/sales_report_20250204_071556.pdf
+2025-02-04 07:15:56,570 - report_generator - INFO - PDF generation completed successfully
+2025-02-04 07:15:56,570 - utils - INFO - Report generated successfully: reports/sales_report_20250204_071556.pdf
